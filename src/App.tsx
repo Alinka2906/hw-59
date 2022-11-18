@@ -114,11 +114,7 @@ function App() {
           </div>
         </div>
         <div className="jokes">
-          <div className="joke-block">
-            <div className="Joke">
               <div className="joke">{jokes.value}</div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
